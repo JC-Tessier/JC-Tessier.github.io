@@ -1,8 +1,8 @@
 ---
-title: Hello
+title: Python insane tutorial
 date: 2024-12-04 12:00:00 -500
-categories: [photography,shits]
-tags: [lols,funnies,haha]
+categories: [coding,test]
+tags: [python,coding,tutorial]
 ---
 
 # You got Flightsed

@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://github.com/JC-Tessier/JC-Tessier.github.io/blob/main/assets/images/Logo-idea-2-var3.png
+avatar: https://raw.githubusercontent.com/JC-Tessier/JC-Tessier.github.io/refs/heads/main/assets/images/Logo-idea-2-var3.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

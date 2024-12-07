@@ -1,4 +1,4 @@
-—
+---
 title: Apollo posing
 date: 2024-12-06 12:00:00 -500
 categories: [photography,dogs]

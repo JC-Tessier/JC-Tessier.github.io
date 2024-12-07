@@ -6,5 +6,4 @@ tags: [dogs,apollo]
 ---
 
 # These are my pictures
-![Samoyed posing](https://raw.githubusercontent.com/JC-Tessier/JC-Tessier.github.io/refs/heads/main/assets/images/DSC_2212.jpeg
- “Apollo”)
+[[/assets/images/DSC_2212.jpeg|Apollo]]

@@ -6,4 +6,5 @@ tags: [dogs,apollo]
 ---
 
 # These are my pictures
-[[/assets/images/DSC_2212.jpeg|Apollo]]
+
+![Apollo](/assets/images/DSC_2212.jpeg)
